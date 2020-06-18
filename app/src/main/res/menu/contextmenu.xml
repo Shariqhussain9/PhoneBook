@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cm_it1" android:title="View"></item>
+    <item android:id="@+id/cm_it2" android:title="Edit"></item>
+    <item android:id="@+id/cm_it3" android:title="Delete"></item>
+    <item android:id="@+id/cm_it4" android:title="SMS"></item>
+
+    <item android:id="@+id/cm_it5" android:title="call"></item>
+
+
+
+</menu>
